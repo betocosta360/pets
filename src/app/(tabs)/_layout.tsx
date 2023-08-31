@@ -1,6 +1,5 @@
 import { Tabs } from "expo-router";
 
-//import "../global.css";
 import { MaterialIcons } from '@expo/vector-icons'
 import { Entypo } from '@expo/vector-icons';
 
@@ -64,11 +63,8 @@ export default function TabRoutesLayout() {
                     )
                 }}
             />
-
-
-           
-           
-
+            
+            
         </Tabs>
     )
 }
