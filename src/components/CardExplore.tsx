@@ -20,7 +20,7 @@ export default function CardExplore() {
                     <Card.Content>
                         <View style={{ alignItems: 'center', elevation: 5, marginTop: -50 }}>
                             <Text style={{ position: 'absolute', fontSize: 20, color: 'blue', fontWeight: '500', zIndex: 1, marginTop: -130, textAlign: 'center', justifyContent: 'center' }} variant="bodyMedium">
-                                Card content
+                                Card content 1
                             </Text>
                         </View>
                     </Card.Content>
