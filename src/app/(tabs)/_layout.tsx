@@ -7,14 +7,15 @@ export default function TabRoutesLayout() {
     return (
         <Tabs screenOptions={{ 
             headerShown: false,
-            tabBarActiveTintColor: 'blue',
-            tabBarLabelStyle: {
+           tabBarActiveBackgroundColor:'transparent',
+            tabBarLabelStyle: { 
                 marginBottom: 12, // Adicione margem inferior ao texto
                 fontSize: 13,
                 fontWeight:'600',   // Tamanho da fonte do texto
                 color: '#6b52c7',
                  // Cor do texto
             },
+            
             tabBarIconStyle: {
                 marginTop: 10,
                 
